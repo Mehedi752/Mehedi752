@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi752&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi752" /> </p>
 <img align = "right" src="https://i.ibb.co/fDj3GBD/using-laptop-1.png" alt="using-laptop-1" border="0"> <br>
-- 🔭 I’m currently working on Tailwind CSS with Daisy UI Projects.
 
 - 🌱 I’m currently learning **CSS Frameworks & JavaScript Language.**
 
