@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mehedi Hasan</h1>
+<h3 align="center">An Aspiring Frontend Developer as well as A Competitive Programmer.</h3>
 
-<!--
-**Mehedi752/Mehedi752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi752&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi752" /> </p>
+<img align = "right" src="https://i.ibb.co/fDj3GBD/using-laptop-1.png" alt="using-laptop-1" border="0"> <br>
+- 🔭 I’m currently working on **Tailwind CSS with Daisy UI Projects.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **CSS Frameworks & JavaScript Language.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Linkedin & Github**
+
+- 💬 Ask me about **Fronted Development & Competitve Programming.**
+
+- 📫 How to reach me **mehedihasansagor301@gmail.com**
+
+<br>
+<h1 align="left">My Programming Language Skills : </h1>
+<p>C, C++, Python, JavaScript.</p>
+
+<h1 align="left">My Programming Profile : </h1>
+<p align="left">
+<h4>Codeforces Link : <a style="text-decoration: none; color: yellow; font-weight: bold;" href="https://codeforces.com/profile/Mehedi_Hasan_21" class="">Mehedi_Hasan_21</a> </h4>
+<h4>Codechef Link : <a style="text-decoration: none; color: yellow; font-weight: bold;" href="https://www.codechef.com/users/mehedi752" class="">mehedi752</a> </h4>
+<h4>Leetcode Link : <a style="text-decoration: none; color: yellow; font-weight: bold;" href="https://www.leetcode.com/users/mehedi752" class="">mehedi752</a> </h4>
+</p>
+
+<h1 align="left">Frontend Development Skills : </h1>
+<p>HTML, CSS, Tailwind CSS, JavaScript.</p>
+
+
+<h1 align="left">Connect with me:</h1>
+<p align="left">
+<a href="https://fb.com/mehedihasan531117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedihasan531117" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-mehedi-hasan-377741229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mehedi-hasan-377741229" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mehedi752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehedi752" height="30" width="40" /></a>
+<a href="https://twitter.com/mehedi752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedi752" height="30" width="40" /></a>
+<a href="https://instagram.com/mehedi752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi752" height="30" width="40" /></a
+</p> <br> <br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi752&show_icons=true&locale=en&layout=compact" alt="mehedi752" />
+
