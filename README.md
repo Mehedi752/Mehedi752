@@ -36,5 +36,22 @@
 <a href="https://instagram.com/mehedi752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi752" height="30" width="40" /></a
 </p> <br> <br> <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi752&show_icons=true&locale=en&layout=compact" alt="mehedi752" />
+##  🔥GitHub Activity Streak
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi752&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="800" />
+  </a>
+</div>
+
+<hr/>
+
+##  📚Summary
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mehedi752&theme=highcontrast" width="900"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehedi752&theme=highcontrast" width="420" height="240"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehedi752&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Its-Shojib" width="420" height="250"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehedi752&theme=highcontrast" width="420"/> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mehedi752&theme=highcontrast&utcOffset=8" width="420"/>
+<img hight="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehedi752&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="420" hight='500'/> -->
+</div>
 
