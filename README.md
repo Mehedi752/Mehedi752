@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Mehedi Hasan</h1>
-<h3 align="center">An Aspiring Frontend Developer as well as A Competitive Programmer.</h3>
+<h3 align="center">An Aspiring Full Stack Developer as well as A Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi752&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi752" /> </p>
 <img align = "right" src="https://i.ibb.co/fDj3GBD/using-laptop-1.png" alt="using-laptop-1" border="0"> <br>
 
-- 🌱 I’m currently learning **JavaScript Language & DOM.**
+- 🌱 I’m currently learning **JavaScript Language & DOM Manipulation.**
 
 - 👯 I’m looking to collaborate on **Linkedin & Github.**
 
-- 💬 Ask me about **Fronted Development & Competitve Programming.**
+- 💬 Ask me about **Full Stack Development & Competitve Programming.**
 
 - 📫 How to reach me **mehedihasansagor301@gmail.com**
 
