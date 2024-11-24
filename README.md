@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi752&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi752" /> </p>
 <img align = "right" src="https://i.ibb.co/fDj3GBD/using-laptop-1.png" alt="using-laptop-1" border="0"> <br>
 
-- 🌱 I’m currently learning **Node JS & Express JS.**
+- 🌱 I’m currently learning **Node JS, Express JS & MongoDB.**
 
 - 👯 I’m looking to collaborate on **Linkedin & Github.**
 
@@ -24,8 +24,10 @@
 </p>
 
 <h1 align="left">Frontend Development Skills : </h1>
-<p>HTML, CSS, Tailwind CSS, JavaScript, JavaScript API.</p>
+<p>HTML, CSS, Tailwind CSS, JavaScript, JavaScript API, ES6, ReactJS.</p>
 
+<h1 align="left">Backend Development Skills : </h1>
+<p>Firebase, NodeJS, ExpressJS, MongoDB.</p>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
