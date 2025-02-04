@@ -1,8 +1,12 @@
 <img src="https://i.ibb.co.com/ZtcbqMz/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2.png" alt="Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2" border="0"> <br>
 <h1 align="center">Hi, I'm Mehedi Hasan</h1>
-<h3 align="center">MERN Stack Developer as well as A Competitive Programmer.</h3>
+<h3 align="center">🚀MERN Stack Developer | 💻Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi752&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi752" /> </p>
+<p>
+  I am a passionate MERN Stack Developer and Competitive Programmer who loves solving real-world problems and building scalable web applications. My expertise lies in React.js, Node.js, Express.js, MongoDB and crafting elegant UI/UX with Tailwind CSS & 
+  DaisyUI. On the competitive programming side, I enjoy solving algorithmic challenges using C++/JavaScript and participating in coding contests.
+</p>
 <img align = "right" src="https://i.ibb.co/fDj3GBD/using-laptop-1.png" alt="using-laptop-1" border="0"> <br>
 
 - 🌱 I’m currently learning **Next JS.**
