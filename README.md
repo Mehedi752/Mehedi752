@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co.com/ZtcbqMz/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2.png" alt="cover-photo" border="0"> <br>
 <h1 align="center">Hi, I'm Mehedi Hasan</h1>
 <h3 align="center">MERN Stack Developer as well as A Competitive Programmer.</h3>
 
