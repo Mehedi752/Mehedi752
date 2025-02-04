@@ -14,7 +14,7 @@
 
 <br>
 <h1 align="left">My Programming Language Skills : </h1>
-<p>C, C++, Python, JavaScript.</p>
+<p>C, C++, Python, Java, JavaScript.</p>
 
 <h1 align="left">My Programming Profile : </h1>
 <p align="left">
