@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/ZtcbqMz/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2.png" alt="Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2" border="0"> <br>
+<img src="https://i.ibb.co.com/1t5MBkN9/Blue-and-White-Gradient-Profile-Data-Analyst-Linked-In-Article-Cover-Image.png" alt="Blue-and-White-Gradient-Profile-Data-Analyst-Linked-In-Article-Cover-Image" border="0"> <br>
 <h1 align="center">Hi, I'm Mehedi Hasan</h1>
 <h3 align="center">🚀MERN Stack Developer | 💻Competitive Programmer</h3>
 
